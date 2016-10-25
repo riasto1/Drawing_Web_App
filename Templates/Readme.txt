@@ -1,1 +1,1 @@
-This folder contain all of the HTML template for project abc
+This folder contain all of the HTML template for project
